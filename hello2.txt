@@ -10,7 +10,7 @@ It may be used in a property query string with fetching functions such as EVP_MD
 
 It isn't mandatory to query for any of these properties, except to make sure to get implementations of this provider and none other.
 
-OPERATIONS AND ALGORITHMS hhhhhhhhhhhh
+OPERATIONS AND ALGORITHMS
 The OpenSSL legacy provider supports these operations and algorithms:
 
 Hashing Algorithms / Message Digests
